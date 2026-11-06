@@ -10,7 +10,7 @@ Tous les outils proposés ici sont optimisés pour fonctionner à la fois sur **
 Cliquez sur l'indicateur de votre choix pour accéder à son mode d'emploi détaillé et ses spécificités :
 
 *   [📌 Classic Pivot Points](./ClassicPivotPoints/) : Un système complet de points pivots avec gestion des sessions graphiques.
-*   
+*   [📊 Account Info Display Replay](./AccountInfoDisplayReplay/) : Affichage des données du compte à l'écran, idéal pour les sessions de Replay.
 *   [📊 VolProf Daily](./) *(Bientôt disponible)* : Profil de volume quotidien optimisé.
 *   [🎯 Cluster Statistic+](./) *(Bientôt disponible)* : Analyse avancée du carnet et des clusters.
 
