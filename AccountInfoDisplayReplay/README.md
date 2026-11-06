@@ -5,6 +5,11 @@ Il est optimisé pour les sessions de Replay (Market Replay / Simulateur).
 
 ---
 
+## 💾 Téléchargement
+
+👉 [Cliquez ici pour télécharger les fichiers DLL de TriGann (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases/tag/v1.0.5-trigann)
+
+
 ## ⚙️ Fonctionnalités majeures
 
 *   **Affichage dynamique :** Visuel incrusté sur le graphique sans encombrer l'espace de lecture.
