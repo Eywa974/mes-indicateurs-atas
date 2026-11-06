@@ -3,7 +3,11 @@
 Triangle de Gann, modèle Sacred, pour ATAS Classic et ATAS X. On place trois points sur le graphique. L'indicateur trace le triangle, l'objectif PT et les zones Z1 et Z2, puis signale la reprise du mouvement.
 
 Version actuelle : **1.0.5**. Dans les paramètres, la ligne Version affiche `1.0.5_Classic` ou `1.0.5_AtasX`.
-## Téléchargement : 
+
+## 💾 Téléchargement
+
+👉 [Cliquez ici pour télécharger les fichiers DLL de TriGann (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases/tag/v1.0.5-trigann)
+
 
 ## ⚙️ Fonctionnalités majeures
 
