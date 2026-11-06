@@ -11,6 +11,7 @@ Cliquez sur l'indicateur de votre choix pour accéder à son mode d'emploi déta
 
 *   [📌 Classic Pivot Points](./ClassicPivotPoints/) : Un système complet de points pivots avec gestion des sessions graphiques.
 *   [📊 Account Info Display Replay](./AccountInfoDisplayReplay/) : Affichage des données du compte à l'écran, idéal pour les sessions de Replay.
+*   [🔻 Triangle de Gann](./Trigann/) : Une impulsion, une correction, 3 points dessinent un triangle, un objectif. 
 *   [📊 VolProf Daily](./) *(Bientôt disponible)* : Profil de volume quotidien optimisé.
 *   [🎯 Cluster Statistic+](./) *(Bientôt disponible)* : Analyse avancée du carnet et des clusters.
 
