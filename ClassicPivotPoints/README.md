@@ -2,8 +2,11 @@
 
 Indicateur ATAS X pour les points pivots **Classic** et les niveaux PDH / PDL. Le calcul n'utilise que la période précédente clôturée. Les méthodes Camarilla, Fibonacci, Woodie et DeMark ne sont pas présentes.
 
-💾 Téléchargement
-👉 Cliquez ici pour télécharger les fichiers DLL de Classic Pivot Points (ATAS Classic & ATAS X)
+---
+
+## 💾 Téléchargement
+
+👉 [Cliquez ici pour télécharger les fichiers DLL de Classic Pivot Points (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases/tag/v1.2.2-ClassicPivotPoints)
 
 ## Installation
 
