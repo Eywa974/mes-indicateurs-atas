@@ -15,6 +15,7 @@ Il est optimisé pour les sessions de Replay (Market Replay / Simulateur).
 *   **Mode Replay optimisé :** Parfait pour analyser vos performances en mode simulation et debriefing.
 *   **Personnalisation graphique :** Choix des couleurs, tailles de police et emplacement de l'encart (Haut/Bas, Gauche/Droite).
 *   **Touche Close :** Paramétrage d'une touche de fonction pour fermer une position active ET annuler tous les ordres en attente (X par défaut)
+*   **Touche Breakeven :** Paramétrage d'une touche de fonction pour un Stop Loss Breakeven réglable de 1 à 5 ticks
 
 ---
 
