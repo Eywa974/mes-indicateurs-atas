@@ -7,8 +7,7 @@ Il est optimisé pour les sessions de Replay (Market Replay / Simulateur).
 
 ## 💾 Téléchargement
 
-👉 [Cliquez ici pour télécharger les fichiers DLL de Account Info Display Replay (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=AccountInfoDisplayRe)
-
+👉 [Cliquez ici pour télécharger les fichiers DLL de Account Info Display Replay (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=account-info)
 
 ## ⚙️ Fonctionnalités majeures
 
