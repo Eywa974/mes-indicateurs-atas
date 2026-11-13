@@ -6,7 +6,7 @@ Version actuelle : **1.0.5**. Dans les paramètres, la ligne Version affiche `1.
 
 ## 💾 Téléchargement
 
-👉 [Cliquez ici pour télécharger les fichiers DLL de TriGann (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases/tag/v1.0.7-trigann)
+👉 [Cliquez ici pour télécharger les fichiers DLL de TriGann (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=TriGann).
 
 
 ## ⚙️ Fonctionnalités majeures
