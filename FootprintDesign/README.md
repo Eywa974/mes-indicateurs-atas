@@ -2,8 +2,6 @@
 
 > **Footprint Design** est un indicateur personnalisé pour la plateforme de trading ATAS. Il dessine le footprint en delta ou en volume, avec les bougies, la value area, les gros prints, un HUD et les VWAP RTH / ETH.
 
-Version actuelle : **1.3.21**. Le champ **Version** (groupe `0. Version`) confirme la DLL chargée.
-
 ---
 
 ## ✨ Fonctionnalités principales
