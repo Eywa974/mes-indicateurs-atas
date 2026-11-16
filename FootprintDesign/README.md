@@ -25,6 +25,8 @@
 *(Conseil : Glissez-déposez une capture d'écran de votre indicateur directement dans l'éditeur GitHub pour générer le lien de l'image ici)*
 
 ![Aperçu de l'indicateur Footprint Design](<img width="1329" height="711" alt="VP" src="https://github.com/user-attachments/assets/636b35c0-e7e9-4f6d-adab-edd93f4ccc91" />)
+<img width="1329" height="711" alt="VP" src="https://github.com/user-attachments/assets/cae4be51-e585-4297-9db4-c4f988e6574c" />
+
 
 ---
 
