@@ -34,7 +34,7 @@ Pour poser une ancre : cliquer **Ancre**, puis la barre de départ. La croix ret
 
 Cliquez sur le bouton ci-dessous pour accéder à la **dernière version disponible** (sélectionnez toujours la release située tout en haut de la page, puis téléchargez le fichier `.dll` dans la section **Assets**) :
 
-👉 **[Télécharger la dernière version de VWAP ancrée globale](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=VWAPG)**
+👉 **[Télécharger la dernière version de VWAP ancrée globale](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=VWAP)**
 👉 [Cliquez ici pour télécharger les fichiers DLL de Account Info Display Replay (ATAS Classic & ATAS X)](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=account-info)
 
 Deux fichiers, un par plateforme :
