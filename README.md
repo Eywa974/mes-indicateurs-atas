@@ -13,6 +13,7 @@ Cliquez sur l'indicateur de votre choix pour accéder à son mode d'emploi déta
 *   [📊 Account Info Display Replay](./AccountInfoDisplayReplay/) : Affichage des données du compte à l'écran, idéal pour les sessions de Replay.
 *   [🔻 Triangle de Gann](./Trigann/) : Une impulsion, une correction, 3 points dessinent un triangle, un objectif.
 *   [📊 VWAP Ancrée Globale](./VWAPAncréeGlobale/) : Dessinez des VWAP ancrées sur un chart, retrouvez les sur tous vos charts.
+*   [📊 Footprint Design](./FootprintDesign/) : Footprint par volume, Delta, colorisation filtrée par niveaux de prix, big trades inclus
 *   [📊 VolProf Daily](./) *(Bientôt disponible)* : Profil de volume quotidien optimisé.
 *   [🎯 Cluster Statistic+](./) *(Bientôt disponible)* : Analyse avancée du carnet et des clusters.
 
