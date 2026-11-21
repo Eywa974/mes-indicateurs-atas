@@ -2,7 +2,7 @@
 
 > **VWAP ancrée globale** pose une ancre sur un graphique et la retrouve sur tous les graphiques du même instrument. Chaque graphique recalcule la VWAP à partir de ses propres barres, depuis la barre qui contient cette ancre.
 
-Version actuelle : **1.1.2**. Dans **About**, la ligne Version affiche `1.1.2_Classic` ou `1.1.2_AtasX`.
+Version actuelle : **1.1.3**. 
 
 ---
 
@@ -55,7 +55,7 @@ Deux fichiers, un par plateforme :
    * **ATAS Classic :** `Documents\ATAS\Indicators` (ou `%AppData%\ATAS\Indicators`)
    * **ATAS X :** `Documents\ATAS X\Indicators` (ou `%AppData%\ATAS X\Indicators`)
 4. S'il reste un ancien `AnchoredVwapGlobal.dll` sans suffixe dans ce dossier, retirez-le. ATAS charge chaque DLL du dossier, et les deux copies s'afficheraient ensemble.
-5. Relancez **ATAS**, ouvrez un graphique, faites un clic droit ➡️ **Indicators** et recherchez **VWAP ancrée globale**. **About** doit afficher `Version 1.1.2_Classic` ou `Version 1.1.2_AtasX`.
+5. Relancez **ATAS**, ouvrez un graphique, faites un clic droit ➡️ **Indicators** et recherchez **VWAP ancrée globale**. 
 6. Ajoutez l'indicateur sur chaque graphique qui doit afficher les ancres. Un graphique sans l'indicateur ne les dessine pas.
 
 ### 2. Mettre à jour l'indicateur
