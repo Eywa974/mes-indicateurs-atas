@@ -32,7 +32,7 @@
 
 Cliquez sur le bouton ci-dessous pour accéder à la **dernière version disponible** (sélectionnez toujours la release située tout en haut de la page, puis téléchargez le fichier `.dll` dans la section **Assets**) :
 
-👉 **[Télécharger la dernière version de Footprint Design](https://github.com)**
+👉 **[Télécharger la dernière version de VWAP ancrée globale](https://github.com/Eywa974/mes-indicateurs-atas/releases?q=FootprintDesign)**
 
 Deux fichiers, un par plateforme :
 
